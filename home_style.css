@@ -1,0 +1,44 @@
+
+a{
+    color: black;
+}
+
+body{
+    font-family: 'Courier New', monospace;
+    cursor: url(https://ani.cursors-4u.net/toons/too-12/too1117.ani), url(https://ani.cursors-4u.net/toons/too-12/too1117.png), auto !important;
+}
+
+#icon{
+    align-self: center;
+    height: 50px;
+    width: 50px;
+}
+
+#navtable{
+    display: block;
+    align-content: center;
+}
+
+video{
+    max-width: 100%;
+    height: auto;
+    width: auto/9; /* ie8 */
+}
+
+table{
+    max-width: 100%;
+    height: auto;
+    width: auto/9; /* ie8 */
+}
+
+#logotext{
+    max-width: 100%;
+    height: auto;
+    width: auto/9; /* ie8 */
+}
+
+div{
+    align-content: center;
+    display: flex;
+    align-items: center;
+}
